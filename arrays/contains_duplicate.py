@@ -5,4 +5,4 @@ class Solution(object):
             if i in arr:
                 return True 
             arr.add(i)
-        return False        
+        return False        ///
